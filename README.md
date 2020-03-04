@@ -1,8 +1,8 @@
-# 使用法
+# 使用方法
 
 ```
+$ git clone https://github.com/melonattacker/LEthRoom.git
 $ cd client
 $ npm install
-$ cd src
 $ npm start
 ```
