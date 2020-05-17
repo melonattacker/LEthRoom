@@ -1,6 +1,6 @@
 var HDWalletProvider = require("truffle-hdwallet-provider");
-var mnemonic = 'hundred theory modify crazy modify head type assault still offer mixed famous';
-var accessToken = 'https://rinkeby.infura.io/v3/c687837206fa408891fed0bd08ee0de6';
+var mnemonic = '';
+var accessToken = '';
 const gas = 4000000;
 const gasPrice = 1000000000 * 60;
 
